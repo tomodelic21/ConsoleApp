@@ -10,3 +10,4 @@ public class NewClass
 
 //Da
 //ne
+//Sve sam ja to rjesio
