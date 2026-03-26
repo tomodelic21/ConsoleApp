@@ -2,10 +2,10 @@
 
 public class NewClass
 {
-	public NewClass()
-	{
-		void MyMethod(){ }
-	}
+    public NewClass()
+    {
+        void MyMethod() { }
+    }
 }
 
 //Da
